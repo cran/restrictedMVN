@@ -1,0 +1,4 @@
+useDynLib(restrictedMVN)
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "pnorm", "qnorm", "rnorm", "runif")
+importFrom("MASS","mvrnorm")

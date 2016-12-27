@@ -1,0 +1,11 @@
+0c5ef84a4bee7ec633b695513ef4490a *DESCRIPTION
+42eb4b49b409e632749ece168e6eb51a *NAMESPACE
+fc850067801ed33b7f9af0dfc82568b5 *R/functions.R
+a13bb4c945edf0edcd0d26207d7e34b3 *man/factor_covariance.Rd
+e8015c6c5d41f958420fbcef65145539 *man/restrictedMVN-package.Rd
+9253984d6be9a895b65aeb3b3d4b9f4d *man/sample_from_constraints.Rd
+bd68ee0189bf7a1f6eb07472f63905df *man/thresh2constraints.Rd
+a16f6e7281280d538cf11ed1d1d19488 *man/whiten_constraint.Rd
+11b2e6c34bc1ed181b407fc658a3b0af *src/truncnorm.c
+355bc6c8667370b72123e47a0ffb12e1 *tests/test-all.R
+8c625beb46917d6b67de70424b56fdf7 *tests/testthat/test-similartorejection.R
